@@ -1,4 +1,4 @@
-# module_1_challenge_1
+# module_1_challenge_
 # 01 HTML, CSS, and Git: Code Refactor
 
 ## Challenges in This Course
